@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 catalog: ALS 6501
 credits: 3
-semester: Fall 2025
+semester: Fall 2026
 professor: Dr. Ethan White (he/him)
 office: Room 1 Building 150
 email: ethanwhite@ufl.edu
